@@ -1,4 +1,4 @@
-<img src="Resources/eq.jpg" alt="drawing" width="300"/>
+<img src="eq.jpg" alt="drawing" width="300"/>
 
 # Mapping Earthquakes
 
