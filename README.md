@@ -1,3 +1,5 @@
+<img src="Resources/eq.jpg" alt="drawing" width="300"/>
+
 # Mapping Earthquakes
 
 ## Objective
@@ -13,6 +15,13 @@ To complete this project, use a URL for GeoJSON earthquake data from the USGS we
 ## Approach
 Your approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. You’ll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
+## Instuctions
+The goals of this challenge are for you to:
+- Use d3.json() to get tectonic plate data and add the data using the L.geoJSON() layer.
+- Style the tectonic plate LineString data to stand out on the map.
+- Add the tectonic plate data as an overlay with the earthquake data.
+- Add a third map style to allow the user to select from three different maps.
+    
 ## Summary
 - Retrieve data from a GeoJSON file.
 - Make API requests to a server to host geographical maps.
@@ -21,12 +30,4 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 - Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
 - Render maps on a local server.
 
-## Challenge
-In this challenge, you’ll add a third map style as an additional tile layer. You'll also add tectonic plate GeoJSON data to the map to illustrate the relationship between the location and frequency of seismic activity and tectonic plates.
 
-## Objectives
-The goals of this challenge are for you to:
--  Use d3.json() to get tectonic plate data and add the data using the L.geoJSON() layer.
--  Style the tectonic plate LineString data to stand out on the map.
--   Add the tectonic plate data as an overlay with the earthquake data.
-    Add a third map style to allow the user to select from three different maps.
