@@ -31,3 +31,10 @@ The goals of this challenge are for you to:
 - Render maps on a local server.
 
 
+
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
